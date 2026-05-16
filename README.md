@@ -228,17 +228,6 @@ Final Result:
 
 ```text
 The formula is SATISFIABLE.
-```
-
-## Screenshots
-
-Screenshots can be added here after running the GUI.
-
-```text
-[Screenshot of the main GUI]
-[Screenshot showing a satisfiable formula]
-[Screenshot showing an unsatisfiable formula]
-```
 
 ## Notes
 
